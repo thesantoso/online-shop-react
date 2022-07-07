@@ -18,15 +18,15 @@ Online store of houses for pets consists of 4 pages:
 - 404;
 
 #### 💻 Home page
-![image](https://user-images.githubusercontent.com/68449997/138617518-7d8facff-1b8e-4a78-aea4-7927828eec42.png)
+![image] ![image](https://user-images.githubusercontent.com/86040508/177772359-c6d2c8bc-aab1-45f8-9532-ef20010acf02.png)
 
 ---
 #### 🛒 Cart page
-![image](https://user-images.githubusercontent.com/68449997/140518572-c64b5c95-256c-42f8-92a5-7999624c25fb.png)
+![image]![image](https://user-images.githubusercontent.com/86040508/177772485-66e733fe-6524-4be2-84b6-488e609429cf.png)
 
 ---
 #### ⭐️ Favourite page
-![image](https://user-images.githubusercontent.com/68449997/140518842-7ca265d6-d9cd-4e2b-9409-b075a4a08e05.png)
+![image]![image](https://user-images.githubusercontent.com/86040508/177772530-09580d81-d499-44fc-a5f9-b712fb484964.png)
 
 ---
 #### 🔎 404 page
