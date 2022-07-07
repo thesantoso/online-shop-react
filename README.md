@@ -7,7 +7,7 @@
 
 *At the end of the file you can find features which i want to add*
 
-[Live Demo](https://online-shop-react.vercel.app/)
+[Live Demo](https://online-shop-react-mu.vercel.app/)
 
 ### 📚About the project
 
